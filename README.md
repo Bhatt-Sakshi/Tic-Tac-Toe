@@ -5,6 +5,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 -----
 
 🎯 Purpose
+
 Practice JavaScript fundamentals
 Understand DOM manipulation
 Implement game logic and event handling
